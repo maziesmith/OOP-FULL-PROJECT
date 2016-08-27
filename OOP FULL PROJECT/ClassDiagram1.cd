@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_FULL_PROJECT.u">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QkAAFIAAAAAAAAABAAIAAAAABAAAAIAAAEAAAAAAAAA=</HashCode>
+      <FileName>clsAccounts.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FULL_PROJECT.clsExpenses">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAEIQAAAAAAEABAAAAAgBAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsExpenses.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FULL_PROJECT.clsInComes">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAACAAAAAAAAABAAACAAAAAAiAAAAAAAAA=</HashCode>
+      <FileName>clsInComes.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FULL_PROJECT.clsExpMoves">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAFAQAAgAAAAAAIAAAAAAAAAAIAIwAAAAABCAAAAA=</HashCode>
+      <FileName>clsExpMoves.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FULL_PROJECT.clsInComeMoves">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAADAQAQAAACAAAIAAAAAAAIAAAAIQAAAAABCAAAAA=</HashCode>
+      <FileName>clsInComeMoves.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_FULL_PROJECT.clsDbConnect">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAgEAAEQADAAAQAAAAAAQCAQAQEAQAAIAACAABGAAU=</HashCode>
+      <FileName>clsDbConnect.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OOP_FULL_PROJECT.Interface1">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAGAAA=</HashCode>
+      <FileName>Interface1.vb</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
